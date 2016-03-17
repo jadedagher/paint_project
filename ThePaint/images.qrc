@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>upload.png</file>
+        <file>save.png</file>
+        <file>changeColor.png</file>
+        <file>bin.png</file>
+        <file>rectangle.png</file>
+        <file>circle.png</file>
+        <file>line.png</file>
+        <file>turquoise(38C9BD).png</file>
+        <file>black(000000).png</file>
+        <file>yellow(faee06).png</file>
+        <file>rouge(f7001d).png</file>
+        <file>blue(0f2cf7).png</file>
+        <file>vert(88C915).png</file>
+        <file>rose(F267C0).png</file>
+        <file>grey.png</file>
+        <file>eraser.png</file>
+        <file>cat.png</file>
+        <file>pencil.png</file>
+    </qresource>
+</RCC>
