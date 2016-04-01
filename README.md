@@ -7,3 +7,4 @@ You just have to compile the main.cpp file and here we go YOU CAN DRAW!!!
 
 It work with QT version 3.2.1
 
+![alt tag](https://github.com/jadedagher/paint_project/blob/master/screenshot.png)
